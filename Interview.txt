@@ -1,0 +1,35 @@
+S&P Global - Interview : 13th March
+--------------------------------------
+what is stream?
+sort list of integer with stream?
+
+
+Stream strm = Stream.of(1,4,6,7,8,9,10);
+
+strm.stream.sorted(strm);
+
+
+String s = "Hi";
+
+
+-------------------------------------
+static {
+
+
+}
+
+
+what is constructor
+what is block
+what is static block
+Immutable in java
+string object creation - 2 ways
+
+
+
+diff between spring and spring boot
+starter dependency names for spring boot 
+
+@qualifier
+Beans -> how many beans scope, default one,
+
